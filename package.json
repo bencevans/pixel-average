@@ -1,6 +1,6 @@
 {
   "name": "pixel-average",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Average red, green, blue, alpha & brightness of an image",
   "main": "index.js",
   "scripts": {
