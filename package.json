@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bencevans/img-brightness.git"
+    "url": "git+https://github.com/bencevans/pixel-average.git"
   },
   "keywords": [
     "image",
@@ -18,9 +18,9 @@
   "author": "Ben Evans <ben@bensbit.co.uk> (https://bencevans.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bencevans/img-brightness/issues"
+    "url": "https://github.com/bencevans/pixel-average/issues"
   },
-  "homepage": "https://github.com/bencevans/img-brightness#readme",
+  "homepage": "https://github.com/bencevans/pixel-average#readme",
   "dependencies": {
     "jimp": "^0.2.24"
   },
